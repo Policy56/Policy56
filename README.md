@@ -21,5 +21,5 @@
 [![wakatime](https://wakatime.com/badge/user/f8171f0c-de06-4c7b-954a-3f97ba58c2c4.svg)](https://wakatime.com/@policy)
 
 ### last 7 days
-[![Policy56's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=policy&v=2&custom_title=Langage%20Stats&range=last_7_days&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Policy56's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=policy&v=2&custom_title=Langage%20Stats&range=last_7_days&langs_count=3)](https://wakatime.com/@policy)
 
