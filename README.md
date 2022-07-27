@@ -3,6 +3,11 @@
 
 [![GitHub Policy56](https://img.shields.io/github/followers/Policy56?label=follow&style=social)](https://github.com/Policy56)
 
+- 🦄  I work as an Mobile Developper.
+- 🗺️  I'm French
+- 👾  I love to participate in flutter or mobile developper Hackathon.
+
+
 ## My favorite tools
 
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
