@@ -5,7 +5,7 @@
 
 - 🦄  I work as an Mobile Developper.
 - 🗺️  I'm French
-- 👾  I love to participate in flutter or mobile developper Hackathon.
+- 👾  I love to participate in flutter or mobile developper Hackathon. Participant of for [Flutter Challenge](https://flutterhack.devpost.com/).
 
 
 ## My favorite tools
